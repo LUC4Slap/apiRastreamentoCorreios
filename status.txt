@@ -1,0 +1,35 @@
+
+			
+			Histórico do Objeto
+			Detalhes sobre o trajeto do objeto QG607248120BR
+		
+Status: Objeto entregue ao destinatário
+Data  : 31/08/2021 | Hora: 10:46
+
+					  Local: Unidade de Distribuição - Campo Grande / MS
+Status: Objeto saiu para entrega ao destinatário
+Data  : 31/08/2021 | Hora: 10:00
+
+					  Local: Unidade de Distribuição - Campo Grande / MS
+Status: Objeto em trânsito - por favor aguarde
+Data  : 30/08/2021 | Hora: 10:09
+
+					
+Origem: Unidade de Tratamento - Campo Grande / MS
+Destino: Unidade de Distribuição - Campo Grande / MS
+Status: Objeto em trânsito - por favor aguarde
+Data  : 27/08/2021 | Hora: 01:53
+
+					
+Origem: Unidade de Tratamento - Cajamar / SP
+Destino: Unidade de Tratamento - Campo Grande / MS
+Status: Objeto em trânsito - por favor aguarde
+Data  : 26/08/2021 | Hora: 08:20
+
+					
+Origem: Agência dos Correios - Sao Paulo / SP
+Destino: Unidade de Tratamento - Cajamar / SP
+Status: Objeto postado
+Data  : 25/08/2021 | Hora: 17:45
+
+					  Local: Agência dos Correios - Sao Paulo / SP
