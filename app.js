@@ -50,4 +50,4 @@ app.get("/codigo/:codigo", async (req, res) => {
   res.json({ historico });
 });
 
-server.listen(3000, () => console.log("Server ON."));
+server.listen(80, () => console.log("Server ON."));
