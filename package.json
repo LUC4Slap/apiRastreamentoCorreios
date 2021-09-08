@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node start.js"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "basic-ftp": "^4.6.6",
