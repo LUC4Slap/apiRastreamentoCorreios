@@ -24,7 +24,16 @@ app.get('/ml/:prod', async (req, res) => {
   //curl "https://api.mercadolibre.com/sites/MLB/search?q=Motorola"
   let prodPesq = req.params.prod
   let { data } = await axios.get(`https://api.mercadolibre.com/sites/MLB/search?q=${prodPesq}`)
-  res.json({results: data.results})
+  let parsed = data.results.map(item => {
+    return {
+      id: item.id,
+      nome: item.title,
+      preco: item.price,
+      imagem: item.thumbnail,
+      link: item.permalink
+    }
+  })
+  res.json({results: parsed})
 })
 
 server.listen(process.env.PORT || 8080, () => console.log("Server ON."));
